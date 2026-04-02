@@ -140,7 +140,7 @@ footer: {
   menuBaslik: "Menü",
   iletisimBaslik: "İletişim",
   harita: "https://www.google.com/maps/search/821.%20Sk.%2012%2C%2007070%20Antalya%2C%20Konyaalt%C4%B1%20T%C3%BCrkiye/@36.8821,30.645,17z?hl=tr",
-  instagram: "https://www.instagram.com/pagee.ink/profilecard/?igsh=MXRweXExajB0bWc1cQ%3D%3D",
+  instagram: "https://www.instagram.com/pagee.ink?igsh=d3hwMGgwZGR4Znpm",
   copyright: "© 2026 PG Tattoo Studio — Tüm hakları saklıdır."
 }
 
